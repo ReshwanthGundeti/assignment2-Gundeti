@@ -37,5 +37,12 @@ The below table shows the recommended Food items and Location, the Amount to be 
 |    Kajukatli     |     Delhi          |      500       |
 |                  |                    |                |
 |    Ravva Dosa    |       Telangana    |     80         |
-                                            
+
+---
+
+#### Inspiring Quotes
+> Die with memories,not with dreams - *Alexnader*   
+> What you become in the process is more important than the dream - *Robert T.Kiyosaki*
+
+
 
