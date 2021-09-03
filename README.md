@@ -44,5 +44,27 @@ The below table shows the recommended Food items and Location, the Amount to be 
 > Die with memories,not with dreams - *Alexnader*   
 > What you become in the process is more important than the dream - *Robert T.Kiyosaki*
 
+---
+
+> The word algebra is also used in certain specialized ways. A special kind of mathematical object in abstract algebra is called an "algebra" 
+(<https://en.wikipedia.org/wiki/Algebra>)
+
+```
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+
+```
+Link : <https://cp-algorithms.com/algebra/fibonacci-numbers.html>
+
 
 
