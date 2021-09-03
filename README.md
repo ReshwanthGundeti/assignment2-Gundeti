@@ -20,4 +20,22 @@ The entire atmosphere filled with a kind of **positive energy**.
 * Lemon rice
 * Pongal
 
-[AboutMelink](AboutMe.md)
+[AboutMelink](AboutMe.md)   
+
+---
+
+###  Recommended Food
+
+The below table shows the recommended Food items and Location, the Amount to be paid for their purchase.
+
+|   Food Items     |      Location      |    Amt(INR)    |
+|    ---           |      ---           |     ---        |     
+|    Biryani       |      Hyderabad     |  150           |
+|                  |                    |                |
+|    Shawarma      |     Kolkata        |     100        |
+|                  |                    |                |
+|    Kajukatli     |     Delhi          |      500       |
+|                  |                    |                |
+|    Ravva Dosa    |       Telangana    |     80         |
+                                            
+
