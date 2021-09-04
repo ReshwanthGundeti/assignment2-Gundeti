@@ -46,6 +46,8 @@ The below table shows the recommended Food items and Location, the Amount to be 
 
 ---
 
+### Algebra 
+
 > The word algebra is also used in certain specialized ways. A special kind of mathematical object in abstract algebra is called an "algebra" 
 (<https://en.wikipedia.org/wiki/Algebra>)
 
@@ -65,6 +67,7 @@ pair<int, int> fib (int n) {
 
 ```
 Link : <https://cp-algorithms.com/algebra/fibonacci-numbers.html>
+
 
 
 
